@@ -1,1 +1,2 @@
-some text in some file
+some text in some file 
+and another text
